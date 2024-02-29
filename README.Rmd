@@ -1,0 +1,16 @@
+---
+output: github_document
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  out.width = "100%"
+)
+
+library(knitr)
+```
+
+# Open Data Standards for Defining Representative Government Structures: Open Civic Data Identifiers
+
+
