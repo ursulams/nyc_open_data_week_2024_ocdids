@@ -13,4 +13,5 @@ library(knitr)
 
 # Open Data Standards for Defining Representative Government Structures: Open Civic Data Identifiers
 
-
+## About
+This repo contains the material presented at the start of the workshop. This presentation is also available alongside the voter portal project container in [this Democracy Works repo](https://github.com/democracyworks/open-civic-data-week-2024).
